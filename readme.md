@@ -75,4 +75,4 @@ Since you are ready to make the directory:
 2. **Copy and paste** the three commands under **"1. Create the Directory & Files"** above.
 3. **Open the folder** in your code editor and you're officially in development mode.
 
-Would you like me to help you set up a **GitHub Action** so that every time you update your code, it automatically checks for errors before deploying?
+Would you like me to help you set up a **GitHub Action** so that every time you update your code, it automatically checks for errors before deploying?# velo-id-card
